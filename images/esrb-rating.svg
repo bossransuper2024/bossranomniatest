@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0, 0, 173.77061, 65.56001">
+  <rect x="0" y="0" width="173.7706" height="65.56001" style="fill:white;" />
+  <defs>
+    <style>.cls-1{fill:#231f20;}.cls-2{fill:#fff;}</style>
+  </defs>
+  <rect x="0" y="0" width="170.6106" height="62.4" transform="translate(1.58, 1.58)" class="cls-1" />
+  <rect x="1.37" y="1.58" width="26.19" height="7.36" transform="translate(1.58, 1.58)" class="cls-2" />
+  <rect x="1.36" y="10.54" width="26.21" height="27.05" transform="translate(1.58, 1.58)" class="cls-2" />
+  <rect x="29.16" y="1.57" width="139.8906" height="41.22" transform="translate(1.58, 1.58)" class="cls-2" />
+  <polygon points="1.36,42.78 1.36,39.19 6.63,39.19 6.63,40.03 3.48,40.03 3.48,40.54 6.14,40.54 6.14,41.38 3.48,41.38 3.48,41.94 6.75,41.94 6.75,42.78 1.36,42.78" transform="translate(1.58, 1.58)" class="cls-2" />
+  <path d="M647.63 402.45 c0 -0.12 -0.15 -0.2 -0.31 -0.25 a2.12 2.12 0 0 0 -0.54 -0.06 c-0.47 0 -0.67 0.07 -0.67 0.21 c0 0.53 3.7 0.19 3.7 1.5 c0 0.83 -1.24 1.24 -3 1.24 s-2.82 -0.55 -2.86 -1.2 h2 a0.51 0.51 0 0 0 0.35 0.28 a2 2 0 0 0 0.61 0.09 c0.52 0 0.87 -0.09 0.87 -0.26 c0 -0.55 -3.71 -0.17 -3.71 -1.54 c0 -0.77 1.18 -1.15 2.8 -1.15 c1.79 0 2.6 0.51 2.76 1.14 Z" transform="translate(-636.41, -362.21) translate(1.58, 1.58)" class="cls-2" />
+  <path d="M653 403 h0.83 c0.65 0 1 -0.1 1 -0.34 s-0.36 -0.38 -0.86 -0.38 h-1 Z m0 0.78 V405 h-2.11 V401.4 h3 c2.15 0 2.86 0.33 2.86 1 c0 0.41 -0.33 0.76 -1.08 0.88 c0.68 0.13 1.09 0.22 1.09 0.94 c0 0.47 0 0.63 0.22 0.63 V405 h-2.14 a1.42 1.42 0 0 1 -0.11 -0.63 c0 -0.47 -0.14 -0.62 -1.12 -0.62 Z" transform="translate(-636.41, -362.21) translate(1.58, 1.58)" class="cls-2" />
+  <path d="M660.18 402.24 v0.6 h0.88 c0.42 0 0.73 -0.11 0.73 -0.31 s-0.42 -0.29 -0.86 -0.29 Z m0 1.25 v0.66 h0.92 c0.53 0 0.92 -0.06 0.92 -0.32 s-0.49 -0.34 -1.17 -0.34 Z m-2.11 1.5 V401.4 h3.08 c1.45 0 2.61 0.19 2.61 0.91 c0 0.37 -0.43 0.64 -0.84 0.78 c0.7 0.1 1.07 0.43 1.07 0.82 c0 0.8 -1.1 1.08 -2.78 1.08 Z" transform="translate(-636.41, -362.21) translate(1.58, 1.58)" class="cls-2" />
+  <polygon points="3.52,17.09 23.8,12.04 25.36,17.44 18.84,19.06 23.21,34.24 15.96,36.05 11.59,20.87 5.08,22.5 3.52,17.09" transform="translate(1.58, 1.58)" class="cls-1" />
+  <polygon points="21.4,3.17 23.12,3.17 25.12,5.45 25.05,4.5 25.05,3.17 26.81,3.17 26.81,7.34 25.09,7.34 23.09,5.07 23.12,6.05 23.16,7.34 21.4,7.34 21.4,3.17" transform="translate(1.58, 1.58)" class="cls-1" />
+  <polygon points="15.2,3.17 19.76,3.17 19.76,4.14 17.03,4.14 17.03,4.74 19.34,4.74 19.34,5.71 17.03,5.71 17.03,6.37 19.87,6.37 19.87,7.34 15.2,7.34 15.2,3.17" transform="translate(1.58, 1.58)" class="cls-1" />
+  <polygon points="8.78,3.17 13.35,3.17 13.35,4.14 10.61,4.14 10.61,4.74 12.92,4.74 12.92,5.71 10.61,5.71 10.61,6.37 13.46,6.37 13.46,7.34 8.78,7.34 8.78,3.17" transform="translate(1.58, 1.58)" class="cls-1" />
+  <polygon points="2.08,3.17 7.22,3.17 7.22,4.27 5.57,4.27 5.57,7.34 3.73,7.34 3.73,4.27 2.08,4.27 2.08,3.17" transform="translate(1.58, 1.58)" class="cls-1" />
+  <text x="31.16px" y="13.19" transform="translate(1.58, 1.58)" xml:space="preserve" font-family="Arial" font-size="8px" style="fill:#231f20;">Violence</text>
+  <text x="31.16px" y="25.19" transform="translate(1.58, 1.58)" xml:space="preserve" font-family="Arial" font-size="8px" style="fill:#231f20;">Suggestive Themes</text>
+  <text x="31.16px" y="37.19" transform="translate(1.58, 1.58)" xml:space="preserve" font-family="Arial" font-size="8px" style="fill:#231f20;">Mild Language</text>
+  <rect x="1.36" y="44.36" width="167.6906" height="16.47" transform="translate(1.58, 1.58)" class="cls-2" />
+  <text x="4.357651" y="51.36" transform="translate(1.58, 1.58)" xml:space="preserve" font-family="Arial" font-size="8px" style="fill:#231f20;">In-Game Purchases (Includes Random Items)</text>
+  <text x="60.65257" y="58.96" transform="translate(1.58, 1.58)" xml:space="preserve" font-family="Arial" font-size="8px" style="fill:#231f20;">Users Interact</text>
+</svg>

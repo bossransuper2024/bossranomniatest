@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://challenges.cloudflare.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: blob:; connect-src 'self' https://ran-api.yourgames.com.ph wss://ran-api.yourgames.com.ph https://challenges.cloudflare.com; media-src 'self'; frame-src https://challenges.cloudflare.com; object-src 'none'; base-uri 'self'; form-action 'self';" />
+    <title>YG RAN ONLINE</title>
+
+    <!-- Open Graph / Social Media Meta -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="YG RAN ONLINE — EP7 Pure Hunt Server" />
+    <meta property="og:description" content="YG RAN Online EP7 — RAN PH EP7 (2013) Gameplay Experience. No Paid GL, Craft Based, Fair Play. Pure Hunt Server." />
+    <meta property="og:image" content="https://ran.yourgames.com.ph/images/hero/bg-anime.jpg" />
+    <meta property="og:url" content="https://ran.yourgames.com.ph" />
+    <meta property="og:site_name" content="YG RAN ONLINE" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="YG RAN ONLINE — EP7 Pure Hunt Server" />
+    <meta name="twitter:description" content="YG RAN Online EP7 — RAN PH EP7 (2013) Gameplay Experience. No Paid GL, Craft Based, Fair Play." />
+    <meta name="twitter:image" content="https://ran.yourgames.com.ph/images/hero/bg-anime.jpg" />
+
+    <meta name="description" content="YG RAN Online EP7 — RAN PH EP7 (2013) Gameplay Experience. No Paid GL, Craft Based, Fair Play. Pure Hunt Server." />
+
+    <!-- Preload custom font -->
+    <link rel="preload" href="/the-last-shuriken.regular.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Russo+One&family=Exo+2:wght@400;600;700&family=Orbitron:wght@500;700&family=Bebas+Neue&family=Oswald:wght@300;400;500;600;700&family=Rajdhani:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+      /* Custom Font */
+      @font-face {
+        font-family: 'The Last Shuriken';
+        src: url('/the-last-shuriken.regular.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      html {
+        scroll-behavior: smooth;
+      }
+
+      body {
+        background: #1a1510;
+        color: #e8e8e8;
+        font-family: 'Oswald', sans-serif;
+        overflow-x: hidden;
+        cursor: default;
+      }
+
+      ::-webkit-scrollbar {
+        width: 8px;
+      }
+
+      ::-webkit-scrollbar-track {
+        background: #1a1510;
+      }
+
+      ::-webkit-scrollbar-thumb {
+        background: linear-gradient(180deg, #4A90D9, #E85C3A);
+        border-radius: 4px;
+      }
+
+      ::-webkit-scrollbar-thumb:hover {
+        background: linear-gradient(180deg, #5BA3E0, #FF6B35);
+      }
+
+      ::selection {
+        background: rgba(74, 144, 217, 0.4);
+        color: #E8C088;
+      }
+    </style>
+    <script type="module" crossorigin src="/assets/three-DQCpd17N.js"></script>
+    <script type="module" crossorigin src="/assets/gsap-C8pce-KX.js"></script>
+    <script type="module" crossorigin src="/assets/main-BIrc1lQd.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/main-DeoHSpUP.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <!--Tawk.to loaded after loading screen via App-->
+  </body>
+</html>
